@@ -1,18 +1,18 @@
 ### Options (Beginner-Friendly Guide)
 
 ## Terms
-#Bullish - belief that the stock price will go up
-#Bearish - belief that the stock price will go down
-#Premium - the price paid for an option contract, similar to insurance premiums being the price paid for insurance contracts, #easier to use this term to refer to the price of options to avoid discrepancy between referring to strike price vs option contract price
-#Strike Price - the price you can buy (in the case of a call) or sell (for a put) the underlying security before the contract expires.
-#Intrinsic Value - difference between option strike price and (calculable value) e.g. can be calculated
-#Extrinsic Value - difference between the option premium and and its intrinsic value, which consists of other factors beside calculable value, such as Time  (measured in DTE) and Implied Volatility (IV) which I will explain later
-In The Money - refers to when an option contract possesses intrinsic value
+# Bullish - belief that the stock price will go up
+# Bearish - belief that the stock price will go down
+# Premium - the price paid for an option contract, similar to insurance premiums being the price paid for insurance contracts, easier to use this term to refer to the price of options to avoid discrepancy between referring to strike price vs option contract price
+# Strike Price - the price you can buy (in the case of a call) or sell (for a put) the underlying security before the contract expires.
+# Intrinsic Value - difference between option strike price and (calculable value) e.g. can be calculated
+# Extrinsic Value - difference between the option premium and and its intrinsic value, which consists of other factors beside calculable value, such as Time  (measured in DTE) and Implied Volatility (IV) which I will explain later
+# In The Money - refers to when an option contract possesses intrinsic value
 
-##Option 
+## Option 
 A contract that gives the buyer the right to buy or sell a financial product at an agreed upon price for a certain period of time. 1 contract is equal to 100 shares, thus if the listed price is $0.64 for an option, it would be worth 0.64 x 100 = $64
 
-##Types of options
+## Types of options
 1. Call
 - Gives the buyer the right to buy the underlying stock at a specified price by the expiration date
 - Typically purchased when the stock price is expected to go up
@@ -25,7 +25,7 @@ A contract that gives the buyer the right to buy or sell a financial product at 
 - Scenario: Buying a put for AAPL for strike price $145 when the current price is $150, if the price falls to $140 before the expiration date, the premium of the option contract will increase depending on many factors, but likewise it will roughly increase by -$(140-150)x100 = $1000.
 - Likewise, other factors affect the price of the option similar to call options
 
-##Factors affecting options premium
+## Factors affecting options premium
 
 1. Underlying Stock Price
 - The most important thing affecting options premium is the actual current market price of the stock vs the strike price
