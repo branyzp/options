@@ -16,7 +16,7 @@ A contract that gives the buyer the right to buy or sell a financial product at 
 1. Call
 - Gives the buyer the right to buy the underlying stock at a specified price by the expiration date
 - Typically purchased when the stock price is expected to go up
-- Scenario: Buying a call for AAPL for strike price $150 when the current price is $149. If the price shoots up to $155 before expiration date, the premium of the option contract will increase depending on many factors, but in easier terms it will increase by roughly $(155-149)x100= $600.
+- Scenario: Buying a call for AAPL for strike price $150, current price is $149. If the price shoots up to $155 before expiration date, the premium of the option contract will increase depending on many factors, but in easier terms it will increase by roughly $(155-149)x100= $600.
 - Other factors that will affect the price of the option besides the strike price of the underlying stock are the Implied Volatility (IV), Days Til Expiry (DTE),
 
 2. Put
