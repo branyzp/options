@@ -1,13 +1,13 @@
-### Options (Beginner-Friendly Guide)
+# Options (Beginner-Friendly Guide)
 
 ## Terms
-# Bullish - belief that the stock price will go up
-# Bearish - belief that the stock price will go down
-# Premium - the price paid for an option contract, similar to insurance premiums being the price paid for insurance contracts, easier to use this term to refer to the price of options to avoid discrepancy between referring to strike price vs option contract price
-# Strike Price - the price you can buy (in the case of a call) or sell (for a put) the underlying security before the contract expires.
-# Intrinsic Value - difference between option strike price and (calculable value) e.g. can be calculated
-# Extrinsic Value - difference between the option premium and and its intrinsic value, which consists of other factors beside calculable value, such as Time  (measured in DTE) and Implied Volatility (IV) which I will explain later
-# In The Money - refers to when an option contract possesses intrinsic value
+### Bullish - belief that the stock price will go up
+### Bearish - belief that the stock price will go down
+### Premium - the price paid for an option contract, similar to insurance premiums being the price paid for insurance contracts, easier to use this term to refer to the price of options to avoid discrepancy between referring to strike price vs option contract price
+### Strike Price - the price you can buy (in the case of a call) or sell (for a put) the underlying security before the contract expires.
+### Intrinsic Value - difference between option strike price and (calculable value) e.g. can be calculated
+### Extrinsic Value - difference between the option premium and and its intrinsic value, which consists of other factors beside calculable value, such as Time  (measured in DTE) and Implied Volatility (IV) which I will explain later
+### In The Money - refers to when an option contract possesses intrinsic value
 
 ## Option 
 A contract that gives the buyer the right to buy or sell a financial product at an agreed upon price for a certain period of time. 1 contract is equal to 100 shares, thus if the listed price is $0.64 for an option, it would be worth 0.64 x 100 = $64
