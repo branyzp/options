@@ -5,7 +5,7 @@
 ### Bearish - belief that the stock price will go down
 ### Premium - the price paid for an option contract, similar to insurance premiums being the price paid for insurance contracts, easier to use this term to refer to the price of options to avoid discrepancy between referring to strike price vs option contract price
 ### Strike Price - the price you can buy (in the case of a call) or sell (for a put) the underlying security before the contract expires.
-### Intrinsic Value - difference between option strike price and (calculable value) e.g. can be calculated
+### Intrinsic Value - value of an option if exercised today, calculated using the difference between the option strike price and current share price (value can be calculated)
 ### Extrinsic Value - difference between the option premium and and its intrinsic value, which consists of other factors beside calculable value, such as Time  (measured in DTE) and Implied Volatility (IV) which I will explain later
 ### In The Money - refers to when an option contract possesses intrinsic value
 
