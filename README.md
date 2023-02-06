@@ -82,9 +82,9 @@ Next,
 - In 1 week, GME is at $19, I get assigned to buy 600 shares at $19 = $11400 cash is gone, so I still have 600 shares and $1400 remaining cash + $360 from the premium
 - Now I can start selling Covered Calls again and 1 round of the wheel is completed, repeat
 
-Again, if you realise, it is still a sort of net win for us, as compared to buy and hold strategy the wheel strategy allows us to purchase stocks at a cheaper price as we originally intended to.
+Again, if you realise, it is still a sort of net win for us, as compared to buy and hold strategy the wheel strategy allows us to purchase stocks at a cheaper price than we originally intended to.
 
 Why do I say this? If you realise I sold puts at a premium of 0.60 per share at strike price $20,
 what this means is that in the case of being assigned at $20 strike price, I bought shares at $20 when the actual market price is at $19, but the premium cushioned the blow a bit (by 0.60) so I only made a paper loss of 0.40 per share. If I had bought shares at $25 and the price dropped to $19, I would have lost $6 per share.
 
-This is the Theta Wheel strategy
+This is the Theta Wheel strategy, it does not guarantee returns, instead it provides a strategy which can be used to generate some returns weekly/monthly especially when share prices remain stagnant or if you would like to own some shares at a cheaper cost price
